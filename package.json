@@ -15,7 +15,7 @@
   "author": "Alex P",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.4",
+    "electron": "^15.5.5",
     "electron-packager": "^14.2.1",
     "nodemon": "^2.0.4"
   },
